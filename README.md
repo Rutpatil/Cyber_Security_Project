@@ -117,3 +117,6 @@ The web_attacks_balanced.csv dataset includes labeled network traffic data categ
 ## *Conclusion*
 
 This project showcases how artificial intelligence and machine learning can be effectively applied to cybersecurity for real-time intrusion detection and network threat mitigation. With high accuracy and automation, this AI-powered IDS reduces response time and enhances the overall security posture of an organization.
+
+## *Demo Video Link*
+https://drive.google.com/file/d/1m9ge80sswdjZ_H8zCEOYtPeNPepNucFA/view?usp=sharing
